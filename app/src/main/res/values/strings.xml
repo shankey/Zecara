@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Zecara</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_sign_in_google">Sign in with Google</string>
+    <string name="default_web_client_id">196521594452-d8faku6gu29f7hdlh1huj8k6ibtq5iff.apps.googleusercontent.com</string>
+</resources>
